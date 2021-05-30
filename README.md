@@ -1,6 +1,5 @@
 老规矩，先上
-[视频](https://www.bilibili.com/video/BV16B4y1F7eR/)
-<iframe style="width:290px;height: 600px;" src="//player.bilibili.com/player.html?aid=588161536&bvid=BV16B4y1F7eR&cid=340211724&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> 
+[B站视频](https://www.bilibili.com/video/BV16B4y1F7eR/)
 
 # 背景介绍
 
